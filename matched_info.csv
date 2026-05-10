@@ -1,0 +1,255 @@
+municipality,season,year_start,year_end,display_year,weeks_present,expected_weeks,completeness,week_range,sequence_id,year,match_key_start,match_key_end,crop,original_year,max_wind_kts,min_pres_mb,duration_hrs,risk_score,match_key,year_for_sort
+Ligao,Dry,2015,2016,2015-2016,22,25,88.0%,1-52,Ligao_Dry_2015-2016,0,Ligao_2015_Dry,Ligao_2016_Dry,Rice,2016,110,924,0,55.0,,2016
+Ligao,Wet,0,0,,23,27,85.2%,18-44,Ligao_Wet_2016,2016,,,Rice,2016,110,924,0,55.0,Ligao_2016_Wet,2016
+Ligao,Dry,2015,2016,2015-2016,22,25,88.0%,1-52,Ligao_Dry_2015-2016,0,Ligao_2015_Dry,Ligao_2016_Dry,Corn,2016,110,924,0,55.0,,2016
+Ligao,Wet,0,0,,23,27,85.2%,18-44,Ligao_Wet_2016,2016,,,Corn,2016,110,924,0,55.0,Ligao_2016_Wet,2016
+Malinao,Dry,2015,2016,2015-2016,22,25,88.0%,1-52,Malinao_Dry_2015-2016,0,Malinao_2015_Dry,Malinao_2016_Dry,Rice,2016,120,924,3,66.0,,2016
+Malinao,Wet,0,0,,23,27,85.2%,18-44,Malinao_Wet_2016,2016,,,Rice,2016,120,924,3,66.0,Malinao_2016_Wet,2016
+Malinao,Dry,2015,2016,2015-2016,22,25,88.0%,1-52,Malinao_Dry_2015-2016,0,Malinao_2015_Dry,Malinao_2016_Dry,Corn,2016,120,924,3,66.0,,2016
+Malinao,Wet,0,0,,23,27,85.2%,18-44,Malinao_Wet_2016,2016,,,Corn,2016,120,924,3,66.0,Malinao_2016_Wet,2016
+Oas,Wet,0,0,,23,27,85.2%,18-44,Oas_Wet_2016,2016,,,Rice,2016,110,924,0,55.0,Oas_2016_Wet,2016
+Oas,Dry,2015,2016,2015-2016,22,25,88.0%,1-52,Oas_Dry_2015-2016,0,Oas_2015_Dry,Oas_2016_Dry,Rice,2016,110,924,0,55.0,,2016
+Oas,Wet,0,0,,23,27,85.2%,18-44,Oas_Wet_2016,2016,,,Corn,2016,110,924,0,55.0,Oas_2016_Wet,2016
+Oas,Dry,2015,2016,2015-2016,22,25,88.0%,1-52,Oas_Dry_2015-2016,0,Oas_2015_Dry,Oas_2016_Dry,Corn,2016,110,924,0,55.0,,2016
+Pioduran,Wet,0,0,,23,27,85.2%,18-44,Pio Duran_Wet_2016,2016,,,Rice,2016,0,1013,0,0.0,Pioduran_2016_Wet,2016
+Pioduran,Dry,2015,2016,2015-2016,22,25,88.0%,1-52,Pio Duran_Dry_2015-2016,0,Pioduran_2015_Dry,Pioduran_2016_Dry,Rice,2016,0,1013,0,0.0,,2016
+Pioduran,Dry,2015,2016,2015-2016,22,25,88.0%,1-52,Pio Duran_Dry_2015-2016,0,Pioduran_2015_Dry,Pioduran_2016_Dry,Corn,2016,0,1013,0,0.0,,2016
+Pioduran,Wet,0,0,,23,27,85.2%,18-44,Pio Duran_Wet_2016,2016,,,Corn,2016,0,1013,0,0.0,Pioduran_2016_Wet,2016
+Polangui,Dry,2015,2016,2015-2016,22,25,88.0%,1-52,Polangui_Dry_2015-2016,0,Polangui_2015_Dry,Polangui_2016_Dry,Rice,2016,110,924,0,55.0,,2016
+Polangui,Wet,0,0,,23,27,85.2%,18-44,Polangui_Wet_2016,2016,,,Rice,2016,110,924,0,55.0,Polangui_2016_Wet,2016
+Polangui,Dry,2015,2016,2015-2016,22,25,88.0%,1-52,Polangui_Dry_2015-2016,0,Polangui_2015_Dry,Polangui_2016_Dry,Corn,2016,110,924,0,55.0,,2016
+Polangui,Wet,0,0,,23,27,85.2%,18-44,Polangui_Wet_2016,2016,,,Corn,2016,110,924,0,55.0,Polangui_2016_Wet,2016
+Ligao,Dry,2016,2017,2016-2017,21,25,84.0%,2-52,Ligao_Dry_2016-2017,0,Ligao_2016_Dry,Ligao_2017_Dry,Rice,2017,30,1002,0,15.0,,2017
+Ligao,Dry,2016,2017,2016-2017,21,25,84.0%,2-52,Ligao_Dry_2016-2017,0,Ligao_2016_Dry,Ligao_2017_Dry,Rice,2017,30,1002,0,15.0,,2017
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2017,2017,,,Corn,2017,30,1002,0,15.0,Ligao_2017_Wet,2017
+Ligao,Dry,2016,2017,2016-2017,21,25,84.0%,2-52,Ligao_Dry_2016-2017,0,Ligao_2016_Dry,Ligao_2017_Dry,Corn,2017,30,1002,0,15.0,,2017
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2017,2017,,,Rice,2017,0,1013,0,0.0,Malinao_2017_Wet,2017
+Malinao,Dry,2016,2017,2016-2017,21,25,84.0%,2-52,Malinao_Dry_2016-2017,0,Malinao_2016_Dry,Malinao_2017_Dry,Rice,2017,0,1013,0,0.0,,2017
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2017,2017,,,Corn,2017,0,1013,0,0.0,Malinao_2017_Wet,2017
+Malinao,Dry,2016,2017,2016-2017,21,25,84.0%,2-52,Malinao_Dry_2016-2017,0,Malinao_2016_Dry,Malinao_2017_Dry,Corn,2017,0,1013,0,0.0,,2017
+Oas,Dry,2016,2017,2016-2017,21,25,84.0%,2-52,Oas_Dry_2016-2017,0,Oas_2016_Dry,Oas_2017_Dry,Rice,2017,30,1002,0,15.0,,2017
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2017,2017,,,Rice,2017,30,1002,0,15.0,Oas_2017_Wet,2017
+Oas,Dry,2016,2017,2016-2017,21,25,84.0%,2-52,Oas_Dry_2016-2017,0,Oas_2016_Dry,Oas_2017_Dry,Corn,2017,30,1002,0,15.0,,2017
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2017,2017,,,Corn,2017,30,1002,0,15.0,Oas_2017_Wet,2017
+Pioduran,Dry,2016,2017,2016-2017,21,25,84.0%,2-52,Pio Duran_Dry_2016-2017,0,Pioduran_2016_Dry,Pioduran_2017_Dry,Rice,2017,30,1002,0,15.0,,2017
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2017,2017,,,Rice,2017,30,1002,0,15.0,Pioduran_2017_Wet,2017
+Pioduran,Dry,2016,2017,2016-2017,21,25,84.0%,2-52,Pio Duran_Dry_2016-2017,0,Pioduran_2016_Dry,Pioduran_2017_Dry,Corn,2017,30,1002,0,15.0,,2017
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2017,2017,,,Corn,2017,30,1002,0,15.0,Pioduran_2017_Wet,2017
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2017,2017,,,Rice,2017,30,1002,0,15.0,Polangui_2017_Wet,2017
+Polangui,Dry,2016,2017,2016-2017,21,25,84.0%,2-52,Polangui_Dry_2016-2017,0,Polangui_2016_Dry,Polangui_2017_Dry,Rice,2017,30,1002,0,15.0,,2017
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2017,2017,,,Corn,2017,30,1002,0,15.0,Polangui_2017_Wet,2017
+Polangui,Dry,2016,2017,2016-2017,21,25,84.0%,2-52,Polangui_Dry_2016-2017,0,Polangui_2016_Dry,Polangui_2017_Dry,Corn,2017,30,1002,0,15.0,,2017
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2018,2018,,,Rice,2018,0,1013,0,0.0,Ligao_2018_Wet,2018
+Ligao,Dry,2017,2018,2017-2018,22,25,88.0%,1-52,Ligao_Dry_2017-2018,0,Ligao_2017_Dry,Ligao_2018_Dry,Rice,2018,0,1013,0,0.0,,2018
+Ligao,Dry,2017,2018,2017-2018,22,25,88.0%,1-52,Ligao_Dry_2017-2018,0,Ligao_2017_Dry,Ligao_2018_Dry,Corn,2018,0,1013,0,0.0,,2018
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2018,2018,,,Corn,2018,0,1013,0,0.0,Ligao_2018_Wet,2018
+Malinao,Dry,2017,2018,2017-2018,22,25,88.0%,1-52,Malinao_Dry_2017-2018,0,Malinao_2017_Dry,Malinao_2018_Dry,Rice,2018,0,1013,0,0.0,,2018
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2018,2018,,,Rice,2018,0,1013,0,0.0,Malinao_2018_Wet,2018
+Malinao,Dry,2017,2018,2017-2018,22,25,88.0%,1-52,Malinao_Dry_2017-2018,0,Malinao_2017_Dry,Malinao_2018_Dry,Corn,2018,0,1013,0,0.0,,2018
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2018,2018,,,Corn,2018,0,1013,0,0.0,Malinao_2018_Wet,2018
+Oas,Dry,2017,2018,2017-2018,22,25,88.0%,1-52,Oas_Dry_2017-2018,0,Oas_2017_Dry,Oas_2018_Dry,Rice,2018,0,1013,0,0.0,,2018
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2018,2018,,,Rice,2018,0,1013,0,0.0,Oas_2018_Wet,2018
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2018,2018,,,Corn,2018,0,1013,0,0.0,Oas_2018_Wet,2018
+Oas,Dry,2017,2018,2017-2018,22,25,88.0%,1-52,Oas_Dry_2017-2018,0,Oas_2017_Dry,Oas_2018_Dry,Corn,2018,0,1013,0,0.0,,2018
+Pioduran,Wet,0,0,,22,27,81.5%,18-44,Pio Duran_Wet_2018,2018,,,Rice,2018,0,1013,0,0.0,Pioduran_2018_Wet,2018
+Pioduran,Dry,2017,2018,2017-2018,22,25,88.0%,1-52,Pio Duran_Dry_2017-2018,0,Pioduran_2017_Dry,Pioduran_2018_Dry,Rice,2018,0,1013,0,0.0,,2018
+Pioduran,Wet,0,0,,22,27,81.5%,18-44,Pio Duran_Wet_2018,2018,,,Corn,2018,0,1013,0,0.0,Pioduran_2018_Wet,2018
+Pioduran,Dry,2017,2018,2017-2018,22,25,88.0%,1-52,Pio Duran_Dry_2017-2018,0,Pioduran_2017_Dry,Pioduran_2018_Dry,Corn,2018,0,1013,0,0.0,,2018
+Polangui,Dry,2017,2018,2017-2018,22,25,88.0%,1-52,Polangui_Dry_2017-2018,0,Polangui_2017_Dry,Polangui_2018_Dry,Rice,2018,0,1013,0,0.0,,2018
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2018,2018,,,Rice,2018,0,1013,0,0.0,Polangui_2018_Wet,2018
+Polangui,Dry,2017,2018,2017-2018,22,25,88.0%,1-52,Polangui_Dry_2017-2018,0,Polangui_2017_Dry,Polangui_2018_Dry,Corn,2018,0,1013,0,0.0,,2018
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2018,2018,,,Corn,2018,0,1013,0,0.0,Polangui_2018_Wet,2018
+Ligao,Dry,2018,2019,2018-2019,22,25,88.0%,1-52,Ligao_Dry_2018-2019,0,Ligao_2018_Dry,Ligao_2019_Dry,Rice,2019,115,943,0,57.5,,2019
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2019,2019,,,Rice,2019,115,943,0,57.5,Ligao_2019_Wet,2019
+Ligao,Dry,2018,2019,2018-2019,22,25,88.0%,1-52,Ligao_Dry_2018-2019,0,Ligao_2018_Dry,Ligao_2019_Dry,Corn,2019,115,943,0,57.5,,2019
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2019,2019,,,Corn,2019,115,943,0,57.5,Ligao_2019_Wet,2019
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2019,2019,,,Rice,2019,115,943,0,57.5,Malinao_2019_Wet,2019
+Malinao,Dry,2018,2019,2018-2019,22,25,88.0%,1-52,Malinao_Dry_2018-2019,0,Malinao_2018_Dry,Malinao_2019_Dry,Rice,2019,115,943,0,57.5,,2019
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2019,2019,,,Corn,2019,115,943,0,57.5,Malinao_2019_Wet,2019
+Malinao,Dry,2018,2019,2018-2019,22,25,88.0%,1-52,Malinao_Dry_2018-2019,0,Malinao_2018_Dry,Malinao_2019_Dry,Corn,2019,115,943,0,57.5,,2019
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2019,2019,,,Rice,2019,115,943,0,57.5,Oas_2019_Wet,2019
+Oas,Dry,2018,2019,2018-2019,22,25,88.0%,1-52,Oas_Dry_2018-2019,0,Oas_2018_Dry,Oas_2019_Dry,Rice,2019,115,943,0,57.5,,2019
+Oas,Dry,2018,2019,2018-2019,22,25,88.0%,1-52,Oas_Dry_2018-2019,0,Oas_2018_Dry,Oas_2019_Dry,Corn,2019,115,943,0,57.5,,2019
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2019,2019,,,Corn,2019,115,943,0,57.5,Oas_2019_Wet,2019
+Pioduran,Dry,2018,2019,2018-2019,22,25,88.0%,1-52,Pio Duran_Dry_2018-2019,0,Pioduran_2018_Dry,Pioduran_2019_Dry,Rice,2019,115,943,0,57.5,,2019
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2019,2019,,,Rice,2019,115,943,0,57.5,Pioduran_2019_Wet,2019
+Pioduran,Dry,2018,2019,2018-2019,22,25,88.0%,1-52,Pio Duran_Dry_2018-2019,0,Pioduran_2018_Dry,Pioduran_2019_Dry,Corn,2019,115,943,0,57.5,,2019
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2019,2019,,,Corn,2019,115,943,0,57.5,Pioduran_2019_Wet,2019
+Polangui,Dry,2018,2019,2018-2019,22,25,88.0%,1-52,Polangui_Dry_2018-2019,0,Polangui_2018_Dry,Polangui_2019_Dry,Rice,2019,115,943,0,57.5,,2019
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2019,2019,,,Rice,2019,115,943,0,57.5,Polangui_2019_Wet,2019
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2019,2019,,,Corn,2019,115,943,0,57.5,Polangui_2019_Wet,2019
+Polangui,Dry,2018,2019,2018-2019,22,25,88.0%,1-52,Polangui_Dry_2018-2019,0,Polangui_2018_Dry,Polangui_2019_Dry,Corn,2019,115,943,0,57.5,,2019
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2020,2020,,,Rice,2020,20,1006,0,10.0,Ligao_2020_Wet,2020
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2020,2020,,,Rice,2020,130,932,0,65.0,Ligao_2020_Wet,2020
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2020,2020,,,Rice,2020,70,984,0,35.0,Ligao_2020_Wet,2020
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2020,2020,,,Rice,2020,0,1010,0,0.0,Ligao_2020_Wet,2020
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2020,2020,,,Rice,2020,0,1010,3,6.0,Ligao_2020_Wet,2020
+Ligao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Ligao_Dry_2019-2020,0,Ligao_2019_Dry,Ligao_2020_Dry,Rice,2020,20,1006,0,10.0,,2020
+Ligao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Ligao_Dry_2019-2020,0,Ligao_2019_Dry,Ligao_2020_Dry,Rice,2020,130,932,0,65.0,,2020
+Ligao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Ligao_Dry_2019-2020,0,Ligao_2019_Dry,Ligao_2020_Dry,Rice,2020,70,984,0,35.0,,2020
+Ligao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Ligao_Dry_2019-2020,0,Ligao_2019_Dry,Ligao_2020_Dry,Rice,2020,0,1010,0,0.0,,2020
+Ligao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Ligao_Dry_2019-2020,0,Ligao_2019_Dry,Ligao_2020_Dry,Rice,2020,0,1010,3,6.0,,2020
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2020,2020,,,Corn,2020,20,1006,0,10.0,Ligao_2020_Wet,2020
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2020,2020,,,Corn,2020,130,932,0,65.0,Ligao_2020_Wet,2020
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2020,2020,,,Corn,2020,70,984,0,35.0,Ligao_2020_Wet,2020
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2020,2020,,,Corn,2020,0,1010,0,0.0,Ligao_2020_Wet,2020
+Ligao,Wet,0,0,,24,27,88.9%,18-44,Ligao_Wet_2020,2020,,,Corn,2020,0,1010,3,6.0,Ligao_2020_Wet,2020
+Ligao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Ligao_Dry_2019-2020,0,Ligao_2019_Dry,Ligao_2020_Dry,Corn,2020,20,1006,0,10.0,,2020
+Ligao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Ligao_Dry_2019-2020,0,Ligao_2019_Dry,Ligao_2020_Dry,Corn,2020,130,932,0,65.0,,2020
+Ligao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Ligao_Dry_2019-2020,0,Ligao_2019_Dry,Ligao_2020_Dry,Corn,2020,70,984,0,35.0,,2020
+Ligao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Ligao_Dry_2019-2020,0,Ligao_2019_Dry,Ligao_2020_Dry,Corn,2020,0,1010,0,0.0,,2020
+Ligao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Ligao_Dry_2019-2020,0,Ligao_2019_Dry,Ligao_2020_Dry,Corn,2020,0,1010,3,6.0,,2020
+Malinao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Malinao_Dry_2019-2020,0,Malinao_2019_Dry,Malinao_2020_Dry,Rice,2020,130,932,0,65.0,,2020
+Malinao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Malinao_Dry_2019-2020,0,Malinao_2019_Dry,Malinao_2020_Dry,Rice,2020,68,985,0,34.0,,2020
+Malinao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Malinao_Dry_2019-2020,0,Malinao_2019_Dry,Malinao_2020_Dry,Rice,2020,0,1010,0,0.0,,2020
+Malinao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Malinao_Dry_2019-2020,0,Malinao_2019_Dry,Malinao_2020_Dry,Rice,2020,0,1010,3,6.0,,2020
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2020,2020,,,Rice,2020,130,932,0,65.0,Malinao_2020_Wet,2020
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2020,2020,,,Rice,2020,68,985,0,34.0,Malinao_2020_Wet,2020
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2020,2020,,,Rice,2020,0,1010,0,0.0,Malinao_2020_Wet,2020
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2020,2020,,,Rice,2020,0,1010,3,6.0,Malinao_2020_Wet,2020
+Malinao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Malinao_Dry_2019-2020,0,Malinao_2019_Dry,Malinao_2020_Dry,Corn,2020,130,932,0,65.0,,2020
+Malinao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Malinao_Dry_2019-2020,0,Malinao_2019_Dry,Malinao_2020_Dry,Corn,2020,68,985,0,34.0,,2020
+Malinao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Malinao_Dry_2019-2020,0,Malinao_2019_Dry,Malinao_2020_Dry,Corn,2020,0,1010,0,0.0,,2020
+Malinao,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Malinao_Dry_2019-2020,0,Malinao_2019_Dry,Malinao_2020_Dry,Corn,2020,0,1010,3,6.0,,2020
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2020,2020,,,Corn,2020,130,932,0,65.0,Malinao_2020_Wet,2020
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2020,2020,,,Corn,2020,68,985,0,34.0,Malinao_2020_Wet,2020
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2020,2020,,,Corn,2020,0,1010,0,0.0,Malinao_2020_Wet,2020
+Malinao,Wet,0,0,,24,27,88.9%,18-44,Malinao_Wet_2020,2020,,,Corn,2020,0,1010,3,6.0,Malinao_2020_Wet,2020
+Oas,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Oas_Dry_2019-2020,0,Oas_2019_Dry,Oas_2020_Dry,Rice,2020,20,1006,0,10.0,,2020
+Oas,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Oas_Dry_2019-2020,0,Oas_2019_Dry,Oas_2020_Dry,Rice,2020,130,932,0,65.0,,2020
+Oas,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Oas_Dry_2019-2020,0,Oas_2019_Dry,Oas_2020_Dry,Rice,2020,70,984,0,35.0,,2020
+Oas,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Oas_Dry_2019-2020,0,Oas_2019_Dry,Oas_2020_Dry,Rice,2020,0,1010,0,0.0,,2020
+Oas,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Oas_Dry_2019-2020,0,Oas_2019_Dry,Oas_2020_Dry,Rice,2020,0,1010,3,6.0,,2020
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2020,2020,,,Rice,2020,20,1006,0,10.0,Oas_2020_Wet,2020
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2020,2020,,,Rice,2020,130,932,0,65.0,Oas_2020_Wet,2020
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2020,2020,,,Rice,2020,70,984,0,35.0,Oas_2020_Wet,2020
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2020,2020,,,Rice,2020,0,1010,0,0.0,Oas_2020_Wet,2020
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2020,2020,,,Rice,2020,0,1010,3,6.0,Oas_2020_Wet,2020
+Oas,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Oas_Dry_2019-2020,0,Oas_2019_Dry,Oas_2020_Dry,Corn,2020,20,1006,0,10.0,,2020
+Oas,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Oas_Dry_2019-2020,0,Oas_2019_Dry,Oas_2020_Dry,Corn,2020,130,932,0,65.0,,2020
+Oas,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Oas_Dry_2019-2020,0,Oas_2019_Dry,Oas_2020_Dry,Corn,2020,70,984,0,35.0,,2020
+Oas,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Oas_Dry_2019-2020,0,Oas_2019_Dry,Oas_2020_Dry,Corn,2020,0,1010,0,0.0,,2020
+Oas,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Oas_Dry_2019-2020,0,Oas_2019_Dry,Oas_2020_Dry,Corn,2020,0,1010,3,6.0,,2020
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2020,2020,,,Corn,2020,20,1006,0,10.0,Oas_2020_Wet,2020
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2020,2020,,,Corn,2020,130,932,0,65.0,Oas_2020_Wet,2020
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2020,2020,,,Corn,2020,70,984,0,35.0,Oas_2020_Wet,2020
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2020,2020,,,Corn,2020,0,1010,0,0.0,Oas_2020_Wet,2020
+Oas,Wet,0,0,,24,27,88.9%,18-44,Oas_Wet_2020,2020,,,Corn,2020,0,1010,3,6.0,Oas_2020_Wet,2020
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2020,2020,,,Rice,2020,20,1006,0,10.0,Pioduran_2020_Wet,2020
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2020,2020,,,Rice,2020,70,984,0,35.0,Pioduran_2020_Wet,2020
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2020,2020,,,Rice,2020,0,1010,0,0.0,Pioduran_2020_Wet,2020
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2020,2020,,,Rice,2020,0,1010,0,0.0,Pioduran_2020_Wet,2020
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2020,2020,,,Rice,2020,65,987,0,32.5,Pioduran_2020_Wet,2020
+Pioduran,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Pio Duran_Dry_2019-2020,0,Pioduran_2019_Dry,Pioduran_2020_Dry,Rice,2020,20,1006,0,10.0,,2020
+Pioduran,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Pio Duran_Dry_2019-2020,0,Pioduran_2019_Dry,Pioduran_2020_Dry,Rice,2020,70,984,0,35.0,,2020
+Pioduran,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Pio Duran_Dry_2019-2020,0,Pioduran_2019_Dry,Pioduran_2020_Dry,Rice,2020,0,1010,0,0.0,,2020
+Pioduran,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Pio Duran_Dry_2019-2020,0,Pioduran_2019_Dry,Pioduran_2020_Dry,Rice,2020,0,1010,0,0.0,,2020
+Pioduran,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Pio Duran_Dry_2019-2020,0,Pioduran_2019_Dry,Pioduran_2020_Dry,Rice,2020,65,987,0,32.5,,2020
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2020,2020,,,Corn,2020,20,1006,0,10.0,Pioduran_2020_Wet,2020
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2020,2020,,,Corn,2020,70,984,0,35.0,Pioduran_2020_Wet,2020
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2020,2020,,,Corn,2020,0,1010,0,0.0,Pioduran_2020_Wet,2020
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2020,2020,,,Corn,2020,0,1010,0,0.0,Pioduran_2020_Wet,2020
+Pioduran,Wet,0,0,,24,27,88.9%,18-44,Pio Duran_Wet_2020,2020,,,Corn,2020,65,987,0,32.5,Pioduran_2020_Wet,2020
+Pioduran,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Pio Duran_Dry_2019-2020,0,Pioduran_2019_Dry,Pioduran_2020_Dry,Corn,2020,20,1006,0,10.0,,2020
+Pioduran,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Pio Duran_Dry_2019-2020,0,Pioduran_2019_Dry,Pioduran_2020_Dry,Corn,2020,70,984,0,35.0,,2020
+Pioduran,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Pio Duran_Dry_2019-2020,0,Pioduran_2019_Dry,Pioduran_2020_Dry,Corn,2020,0,1010,0,0.0,,2020
+Pioduran,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Pio Duran_Dry_2019-2020,0,Pioduran_2019_Dry,Pioduran_2020_Dry,Corn,2020,0,1010,0,0.0,,2020
+Pioduran,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Pio Duran_Dry_2019-2020,0,Pioduran_2019_Dry,Pioduran_2020_Dry,Corn,2020,65,987,0,32.5,,2020
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2020,2020,,,Rice,2020,20,1006,0,10.0,Polangui_2020_Wet,2020
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2020,2020,,,Rice,2020,130,932,0,65.0,Polangui_2020_Wet,2020
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2020,2020,,,Rice,2020,70,984,0,35.0,Polangui_2020_Wet,2020
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2020,2020,,,Rice,2020,0,1010,0,0.0,Polangui_2020_Wet,2020
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2020,2020,,,Rice,2020,0,1010,3,6.0,Polangui_2020_Wet,2020
+Polangui,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Polangui_Dry_2019-2020,0,Polangui_2019_Dry,Polangui_2020_Dry,Rice,2020,20,1006,0,10.0,,2020
+Polangui,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Polangui_Dry_2019-2020,0,Polangui_2019_Dry,Polangui_2020_Dry,Rice,2020,130,932,0,65.0,,2020
+Polangui,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Polangui_Dry_2019-2020,0,Polangui_2019_Dry,Polangui_2020_Dry,Rice,2020,70,984,0,35.0,,2020
+Polangui,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Polangui_Dry_2019-2020,0,Polangui_2019_Dry,Polangui_2020_Dry,Rice,2020,0,1010,0,0.0,,2020
+Polangui,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Polangui_Dry_2019-2020,0,Polangui_2019_Dry,Polangui_2020_Dry,Rice,2020,0,1010,3,6.0,,2020
+Polangui,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Polangui_Dry_2019-2020,0,Polangui_2019_Dry,Polangui_2020_Dry,Corn,2020,20,1006,0,10.0,,2020
+Polangui,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Polangui_Dry_2019-2020,0,Polangui_2019_Dry,Polangui_2020_Dry,Corn,2020,130,932,0,65.0,,2020
+Polangui,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Polangui_Dry_2019-2020,0,Polangui_2019_Dry,Polangui_2020_Dry,Corn,2020,70,984,0,35.0,,2020
+Polangui,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Polangui_Dry_2019-2020,0,Polangui_2019_Dry,Polangui_2020_Dry,Corn,2020,0,1010,0,0.0,,2020
+Polangui,Dry,2019,2020,2019-2020,22,25,88.0%,1-52,Polangui_Dry_2019-2020,0,Polangui_2019_Dry,Polangui_2020_Dry,Corn,2020,0,1010,3,6.0,,2020
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2020,2020,,,Corn,2020,20,1006,0,10.0,Polangui_2020_Wet,2020
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2020,2020,,,Corn,2020,130,932,0,65.0,Polangui_2020_Wet,2020
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2020,2020,,,Corn,2020,70,984,0,35.0,Polangui_2020_Wet,2020
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2020,2020,,,Corn,2020,0,1010,0,0.0,Polangui_2020_Wet,2020
+Polangui,Wet,0,0,,24,27,88.9%,18-44,Polangui_Wet_2020,2020,,,Corn,2020,0,1010,3,6.0,Polangui_2020_Wet,2020
+Ligao,Dry,2020,2021,2020-2021,22,25,88.0%,1-52,Ligao_Dry_2020-2021,0,Ligao_2020_Dry,Ligao_2021_Dry,Rice,2021,0,1010,0,0.0,,2021
+Ligao,Wet,0,0,,23,27,85.2%,18-44,Ligao_Wet_2021,2021,,,Rice,2021,0,1010,0,0.0,Ligao_2021_Wet,2021
+Ligao,Dry,2020,2021,2020-2021,22,25,88.0%,1-52,Ligao_Dry_2020-2021,0,Ligao_2020_Dry,Ligao_2021_Dry,Corn,2021,0,1010,0,0.0,,2021
+Ligao,Wet,0,0,,23,27,85.2%,18-44,Ligao_Wet_2021,2021,,,Corn,2021,0,1010,0,0.0,Ligao_2021_Wet,2021
+Malinao,Dry,2020,2021,2020-2021,22,25,88.0%,1-52,Malinao_Dry_2020-2021,0,Malinao_2020_Dry,Malinao_2021_Dry,Rice,2021,0,1010,0,0.0,,2021
+Malinao,Wet,0,0,,23,27,85.2%,18-44,Malinao_Wet_2021,2021,,,Rice,2021,0,1010,0,0.0,Malinao_2021_Wet,2021
+Malinao,Wet,0,0,,23,27,85.2%,18-44,Malinao_Wet_2021,2021,,,Corn,2021,0,1010,0,0.0,Malinao_2021_Wet,2021
+Malinao,Dry,2020,2021,2020-2021,22,25,88.0%,1-52,Malinao_Dry_2020-2021,0,Malinao_2020_Dry,Malinao_2021_Dry,Corn,2021,0,1010,0,0.0,,2021
+Oas,Wet,0,0,,23,27,85.2%,18-44,Oas_Wet_2021,2021,,,Rice,2021,0,1010,0,0.0,Oas_2021_Wet,2021
+Oas,Dry,2020,2021,2020-2021,22,25,88.0%,1-52,Oas_Dry_2020-2021,0,Oas_2020_Dry,Oas_2021_Dry,Rice,2021,0,1010,0,0.0,,2021
+Oas,Wet,0,0,,23,27,85.2%,18-44,Oas_Wet_2021,2021,,,Corn,2021,0,1010,0,0.0,Oas_2021_Wet,2021
+Oas,Dry,2020,2021,2020-2021,22,25,88.0%,1-52,Oas_Dry_2020-2021,0,Oas_2020_Dry,Oas_2021_Dry,Corn,2021,0,1010,0,0.0,,2021
+Pioduran,Dry,2020,2021,2020-2021,22,25,88.0%,1-52,Pio Duran_Dry_2020-2021,0,Pioduran_2020_Dry,Pioduran_2021_Dry,Rice,2021,0,1013,0,0.0,,2021
+Pioduran,Wet,0,0,,23,27,85.2%,18-44,Pio Duran_Wet_2021,2021,,,Rice,2021,0,1013,0,0.0,Pioduran_2021_Wet,2021
+Pioduran,Dry,2020,2021,2020-2021,22,25,88.0%,1-52,Pio Duran_Dry_2020-2021,0,Pioduran_2020_Dry,Pioduran_2021_Dry,Corn,2021,0,1013,0,0.0,,2021
+Pioduran,Wet,0,0,,23,27,85.2%,18-44,Pio Duran_Wet_2021,2021,,,Corn,2021,0,1013,0,0.0,Pioduran_2021_Wet,2021
+Polangui,Dry,2020,2021,2020-2021,22,25,88.0%,1-52,Polangui_Dry_2020-2021,0,Polangui_2020_Dry,Polangui_2021_Dry,Rice,2021,0,1010,0,0.0,,2021
+Polangui,Wet,0,0,,23,27,85.2%,18-44,Polangui_Wet_2021,2021,,,Rice,2021,0,1010,0,0.0,Polangui_2021_Wet,2021
+Polangui,Wet,0,0,,23,27,85.2%,18-44,Polangui_Wet_2021,2021,,,Corn,2021,0,1010,0,0.0,Polangui_2021_Wet,2021
+Polangui,Dry,2020,2021,2020-2021,22,25,88.0%,1-52,Polangui_Dry_2020-2021,0,Polangui_2020_Dry,Polangui_2021_Dry,Corn,2021,0,1010,0,0.0,,2021
+Ligao,Wet,0,0,,27,27,100.0%,18-44,Ligao_Wet_2022,2022,,,Rice,2022,55,988,0,27.5,Ligao_2022_Wet,2022
+Ligao,Dry,2021,2022,2021-2022,24,25,96.0%,1-52,Ligao_Dry_2021-2022,0,Ligao_2021_Dry,Ligao_2022_Dry,Rice,2022,55,988,0,27.5,,2022
+Ligao,Wet,0,0,,27,27,100.0%,18-44,Ligao_Wet_2022,2022,,,Corn,2022,55,988,0,27.5,Ligao_2022_Wet,2022
+Ligao,Dry,2021,2022,2021-2022,24,25,96.0%,1-52,Ligao_Dry_2021-2022,0,Ligao_2021_Dry,Ligao_2022_Dry,Corn,2022,55,988,0,27.5,,2022
+Malinao,Wet,0,0,,27,27,100.0%,18-44,Malinao_Wet_2022,2022,,,Rice,2022,55,988,0,27.5,Malinao_2022_Wet,2022
+Malinao,Dry,2021,2022,2021-2022,24,25,96.0%,1-52,Malinao_Dry_2021-2022,0,Malinao_2021_Dry,Malinao_2022_Dry,Rice,2022,55,988,0,27.5,,2022
+Malinao,Dry,2021,2022,2021-2022,24,25,96.0%,1-52,Malinao_Dry_2021-2022,0,Malinao_2021_Dry,Malinao_2022_Dry,Corn,2022,55,988,0,27.5,,2022
+Malinao,Wet,0,0,,27,27,100.0%,18-44,Malinao_Wet_2022,2022,,,Corn,2022,55,988,0,27.5,Malinao_2022_Wet,2022
+Oas,Dry,2021,2022,2021-2022,24,25,96.0%,1-52,Oas_Dry_2021-2022,0,Oas_2021_Dry,Oas_2022_Dry,Rice,2022,0,1013,0,0.0,,2022
+Oas,Wet,0,0,,27,27,100.0%,18-44,Oas_Wet_2022,2022,,,Rice,2022,0,1013,0,0.0,Oas_2022_Wet,2022
+Oas,Dry,2021,2022,2021-2022,24,25,96.0%,1-52,Oas_Dry_2021-2022,0,Oas_2021_Dry,Oas_2022_Dry,Corn,2022,0,1013,0,0.0,,2022
+Oas,Wet,0,0,,27,27,100.0%,18-44,Oas_Wet_2022,2022,,,Corn,2022,0,1013,0,0.0,Oas_2022_Wet,2022
+Pioduran,Dry,2021,2022,2021-2022,24,25,96.0%,1-52,Pio Duran_Dry_2021-2022,0,Pioduran_2021_Dry,Pioduran_2022_Dry,Rice,2022,0,1013,0,0.0,,2022
+Pioduran,Wet,0,0,,27,27,100.0%,18-44,Pio Duran_Wet_2022,2022,,,Rice,2022,0,1013,0,0.0,Pioduran_2022_Wet,2022
+Pioduran,Wet,0,0,,27,27,100.0%,18-44,Pio Duran_Wet_2022,2022,,,Corn,2022,0,1013,0,0.0,Pioduran_2022_Wet,2022
+Pioduran,Dry,2021,2022,2021-2022,24,25,96.0%,1-52,Pio Duran_Dry_2021-2022,0,Pioduran_2021_Dry,Pioduran_2022_Dry,Corn,2022,0,1013,0,0.0,,2022
+Polangui,Wet,0,0,,27,27,100.0%,18-44,Polangui_Wet_2022,2022,,,Rice,2022,0,1013,0,0.0,Polangui_2022_Wet,2022
+Polangui,Dry,2021,2022,2021-2022,24,25,96.0%,1-52,Polangui_Dry_2021-2022,0,Polangui_2021_Dry,Polangui_2022_Dry,Rice,2022,0,1013,0,0.0,,2022
+Polangui,Wet,0,0,,27,27,100.0%,18-44,Polangui_Wet_2022,2022,,,Corn,2022,0,1013,0,0.0,Polangui_2022_Wet,2022
+Polangui,Dry,2021,2022,2021-2022,24,25,96.0%,1-52,Polangui_Dry_2021-2022,0,Polangui_2021_Dry,Polangui_2022_Dry,Corn,2022,0,1013,0,0.0,,2022
+Ligao,Dry,2022,2023,2022-2023,25,25,100.0%,1-52,Ligao_Dry_2022-2023,0,Ligao_2022_Dry,Ligao_2023_Dry,Rice,2023,0,1010,0,0.0,,2023
+Ligao,Wet,0,0,,27,27,100.0%,18-44,Ligao_Wet_2023,2023,,,Rice,2023,0,1010,0,0.0,Ligao_2023_Wet,2023
+Ligao,Dry,2022,2023,2022-2023,25,25,100.0%,1-52,Ligao_Dry_2022-2023,0,Ligao_2022_Dry,Ligao_2023_Dry,Corn,2023,0,1010,0,0.0,,2023
+Ligao,Wet,0,0,,27,27,100.0%,18-44,Ligao_Wet_2023,2023,,,Corn,2023,0,1010,0,0.0,Ligao_2023_Wet,2023
+Malinao,Dry,2022,2023,2022-2023,25,25,100.0%,1-52,Malinao_Dry_2022-2023,0,Malinao_2022_Dry,Malinao_2023_Dry,Rice,2023,0,1010,6,12.0,,2023
+Malinao,Wet,0,0,,27,27,100.0%,18-44,Malinao_Wet_2023,2023,,,Rice,2023,0,1010,6,12.0,Malinao_2023_Wet,2023
+Malinao,Wet,0,0,,27,27,100.0%,18-44,Malinao_Wet_2023,2023,,,Corn,2023,0,1010,6,12.0,Malinao_2023_Wet,2023
+Malinao,Dry,2022,2023,2022-2023,25,25,100.0%,1-52,Malinao_Dry_2022-2023,0,Malinao_2022_Dry,Malinao_2023_Dry,Corn,2023,0,1010,6,12.0,,2023
+Oas,Wet,0,0,,27,27,100.0%,18-44,Oas_Wet_2023,2023,,,Rice,2023,0,1010,0,0.0,Oas_2023_Wet,2023
+Oas,Dry,2022,2023,2022-2023,25,25,100.0%,1-52,Oas_Dry_2022-2023,0,Oas_2022_Dry,Oas_2023_Dry,Rice,2023,0,1010,0,0.0,,2023
+Oas,Wet,0,0,,27,27,100.0%,18-44,Oas_Wet_2023,2023,,,Corn,2023,0,1010,0,0.0,Oas_2023_Wet,2023
+Oas,Dry,2022,2023,2022-2023,25,25,100.0%,1-52,Oas_Dry_2022-2023,0,Oas_2022_Dry,Oas_2023_Dry,Corn,2023,0,1010,0,0.0,,2023
+Pioduran,Wet,0,0,,27,27,100.0%,18-44,Pio Duran_Wet_2023,2023,,,Rice,2023,0,1013,0,0.0,Pioduran_2023_Wet,2023
+Pioduran,Dry,2022,2023,2022-2023,25,25,100.0%,1-52,Pio Duran_Dry_2022-2023,0,Pioduran_2022_Dry,Pioduran_2023_Dry,Rice,2023,0,1013,0,0.0,,2023
+Pioduran,Dry,2022,2023,2022-2023,25,25,100.0%,1-52,Pio Duran_Dry_2022-2023,0,Pioduran_2022_Dry,Pioduran_2023_Dry,Corn,2023,0,1013,0,0.0,,2023
+Pioduran,Wet,0,0,,27,27,100.0%,18-44,Pio Duran_Wet_2023,2023,,,Corn,2023,0,1013,0,0.0,Pioduran_2023_Wet,2023
+Polangui,Dry,2022,2023,2022-2023,25,25,100.0%,1-52,Polangui_Dry_2022-2023,0,Polangui_2022_Dry,Polangui_2023_Dry,Rice,2023,0,1010,6,12.0,,2023
+Polangui,Wet,0,0,,27,27,100.0%,18-44,Polangui_Wet_2023,2023,,,Rice,2023,0,1010,6,12.0,Polangui_2023_Wet,2023
+Polangui,Dry,2022,2023,2022-2023,25,25,100.0%,1-52,Polangui_Dry_2022-2023,0,Polangui_2022_Dry,Polangui_2023_Dry,Corn,2023,0,1010,6,12.0,,2023
+Polangui,Wet,0,0,,27,27,100.0%,18-44,Polangui_Wet_2023,2023,,,Corn,2023,0,1010,6,12.0,Polangui_2023_Wet,2023
+Ligao,Wet,0,0,,27,27,100.0%,18-44,Ligao_Wet_2024,2024,,,Corn,2024,0,1013,0,0.0,Ligao_2024_Wet,2024
+Ligao,Dry,2023,2024,2023-2024,25,25,100.0%,1-52,Ligao_Dry_2023-2024,0,Ligao_2023_Dry,Ligao_2024_Dry,Corn,2024,0,1013,0,0.0,,2024
+Malinao,Wet,0,0,,27,27,100.0%,18-44,Malinao_Wet_2024,2024,,,Rice,2024,0,1013,0,0.0,Malinao_2024_Wet,2024
+Malinao,Dry,2023,2024,2023-2024,25,25,100.0%,1-52,Malinao_Dry_2023-2024,0,Malinao_2023_Dry,Malinao_2024_Dry,Rice,2024,0,1013,0,0.0,,2024
+Malinao,Wet,0,0,,27,27,100.0%,18-44,Malinao_Wet_2024,2024,,,Corn,2024,0,1013,0,0.0,Malinao_2024_Wet,2024
+Malinao,Dry,2023,2024,2023-2024,25,25,100.0%,1-52,Malinao_Dry_2023-2024,0,Malinao_2023_Dry,Malinao_2024_Dry,Corn,2024,0,1013,0,0.0,,2024
+Oas,Dry,2023,2024,2023-2024,25,25,100.0%,1-52,Oas_Dry_2023-2024,0,Oas_2023_Dry,Oas_2024_Dry,Rice,2024,0,1013,0,0.0,,2024
+Oas,Wet,0,0,,27,27,100.0%,18-44,Oas_Wet_2024,2024,,,Rice,2024,0,1013,0,0.0,Oas_2024_Wet,2024
+Oas,Dry,2023,2024,2023-2024,25,25,100.0%,1-52,Oas_Dry_2023-2024,0,Oas_2023_Dry,Oas_2024_Dry,Corn,2024,0,1013,0,0.0,,2024
+Oas,Wet,0,0,,27,27,100.0%,18-44,Oas_Wet_2024,2024,,,Corn,2024,0,1013,0,0.0,Oas_2024_Wet,2024
+Pioduran,Dry,2023,2024,2023-2024,25,25,100.0%,1-52,Pio Duran_Dry_2023-2024,0,Pioduran_2023_Dry,Pioduran_2024_Dry,Rice,2024,0,1013,0,0.0,,2024
+Pioduran,Wet,0,0,,27,27,100.0%,18-44,Pio Duran_Wet_2024,2024,,,Rice,2024,0,1013,0,0.0,Pioduran_2024_Wet,2024
+Pioduran,Wet,0,0,,27,27,100.0%,18-44,Pio Duran_Wet_2024,2024,,,Corn,2024,0,1013,0,0.0,Pioduran_2024_Wet,2024
+Pioduran,Dry,2023,2024,2023-2024,25,25,100.0%,1-52,Pio Duran_Dry_2023-2024,0,Pioduran_2023_Dry,Pioduran_2024_Dry,Corn,2024,0,1013,0,0.0,,2024
+Polangui,Wet,0,0,,27,27,100.0%,18-44,Polangui_Wet_2024,2024,,,Rice,2024,0,1013,0,0.0,Polangui_2024_Wet,2024
+Polangui,Dry,2023,2024,2023-2024,25,25,100.0%,1-52,Polangui_Dry_2023-2024,0,Polangui_2023_Dry,Polangui_2024_Dry,Rice,2024,0,1013,0,0.0,,2024
+Polangui,Wet,0,0,,27,27,100.0%,18-44,Polangui_Wet_2024,2024,,,Corn,2024,0,1013,0,0.0,Polangui_2024_Wet,2024
+Polangui,Dry,2023,2024,2023-2024,25,25,100.0%,1-52,Polangui_Dry_2023-2024,0,Polangui_2023_Dry,Polangui_2024_Dry,Corn,2024,0,1013,0,0.0,,2024
